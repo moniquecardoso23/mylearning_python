@@ -1,0 +1,10 @@
+print('Multiplicação +', 10 * 10)
+print('Adição +', 10 + 10)
+print('Subtração -', 10 - 5)
+print('Divisão /', 10 / 2)
+
+print('Multiplicação +', 10 * 'A')  
+print('Multiplicação +', '5' + '5')  # concatenação, junta o 5 com 5, resultando em 55
+# OBS: não pode somar um número inteiro com string, porque dá erro, exemplo 5 +'5'
+
+print('Monique' + ' ' + 'Cardoso')
